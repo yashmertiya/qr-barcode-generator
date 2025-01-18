@@ -1,0 +1,22 @@
+{
+  "name": "qr-barcode-generator",
+  "version": "1.0.0",
+  "description": "A NPM package for generating the qr and bar code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "NPM",
+    "QR",
+    "BARCODE",
+    "QRCODE"
+  ],
+  "author": "Yashraj Singh Rathore",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^3.0.1",
+    "jsbarcode": "^3.11.6",
+    "qrcode": "^1.5.4"
+  }
+}
